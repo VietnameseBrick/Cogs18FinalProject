@@ -1,0 +1,4 @@
+Requirements for Connect Four:
+
+
+-All imports and methods must be executed in Jupyter Notebook before executing the main method
