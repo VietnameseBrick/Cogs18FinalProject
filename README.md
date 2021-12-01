@@ -1,5 +1,4 @@
 # Connect Four
-# Objective
 This project is a terminal based representation of the popular board game Connect Four, coded in Python.
 
 The board is represented by a 2D list of zero coordinates that indicates that the spot is empty.
